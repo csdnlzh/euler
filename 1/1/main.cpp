@@ -1,5 +1,4 @@
 #include <iostream>
-#include <stdlib.h>
 using namespace std;
 
 int main()
@@ -14,5 +13,5 @@ int main()
     }
     cout<<"sum: "<<sum<<endl;
 
-    system("pause");
+    return 0;
 }
